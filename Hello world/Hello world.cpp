@@ -71,5 +71,7 @@ int numbe = 0;
     std::cin >> number;
     printf("입력한 숫자는(c++) : %d\n", number);
 
+    //아므ㅜ거나 
+
     return 0;
    }
